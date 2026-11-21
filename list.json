@@ -1,0 +1,33 @@
+{
+ "title": "Remote Entry-Level Jobs (updated daily)",
+ "intro": "Remote jobs for beginners and new grads at companies hiring now, read from employers' own career pages and checked every hour, so every listing is still open.",
+ "feed": "https://jobseveryhour.com/api/v1/lists/remote-entry-level.json",
+ "page": "https://jobseveryhour.com/remote/entry-level/",
+ "more": [
+  [
+   "All remote entry-level jobs",
+   "https://jobseveryhour.com/remote/entry-level/"
+  ],
+  [
+   "Remote jobs",
+   "https://jobseveryhour.com/remote/"
+  ],
+  [
+   "No experience jobs",
+   "https://jobseveryhour.com/no-experience-jobs/"
+  ],
+  [
+   "Internships",
+   "https://jobseveryhour.com/internships/"
+  ],
+  [
+   "Free resume builder",
+   "https://jobseveryhour.com/resume/"
+  ],
+  [
+   "New grad software engineer jobs",
+   "https://github.com/Simba0315/new-grad-software-engineer-jobs"
+  ]
+ ],
+ "repo": "Simba0315/remote-entry-level-jobs"
+}
