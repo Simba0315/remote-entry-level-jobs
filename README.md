@@ -2,7 +2,7 @@
 
 Remote jobs for beginners and new grads at companies hiring now, read from employers' own career pages and checked every hour, so every listing is still open.
 
-**969 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
+**973 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/remote/entry-level/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -92,6 +92,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Tenthpin** | [SAP EWM Junior Consultant](https://jobseveryhour.com/job/sap-ewm-junior-consultant-tenthpin/) | Greater London, England, United Kingdom · Remote | — |  |
 | **Srijan Technologies PVT** | [Associate](https://jobseveryhour.com/job/associate-srijan-technologies-pvt/) | Gurugram, Haryana, India · Remote | — |  |
 | **GDIT** | [Junior Scala Back-End Developer](https://jobseveryhour.com/job/junior-scala-back-end-developer-gdit/) | Any Location / Remote | $89K - $121K | 2026-11-20 |
+| **Parsons** | [Associate Software Engineer](https://jobseveryhour.com/job/associate-software-engineer-parsons/) | US - Remote (Any Location) | $64K - $111K | 2026-11-20 |
 | **Command Investigations** | [Surveillance Investigator I - Entry Level](https://jobseveryhour.com/job/surveillance-investigator-i-entry-level-command-investigations/) | Pittsburgh, PA, USA · Remote | $18 - $20 an hour | 2026-11-19 |
 | **Library Systems & Services** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-library-systems-services/) | Aurora, CO, USA · Remote | $70K - $90K | 2026-11-19 |
 | **LAC Federal** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-lac-federal/) | Aurora, CO, USA · Remote | $70K - $90K | 2026-11-19 |
@@ -174,6 +175,8 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Motorola Solutions** | [RF Engineer - Entry Level](https://jobseveryhour.com/job/rf-engineer-entry-level-motorola-solutions/) | Chicago, IL; Illinois Remote Work | $70K - $80K | 2026-11-19 |
 | **Motorola Solutions** | [RF Engineer - Entry Level](https://jobseveryhour.com/job/rf-engineer-entry-level-motorola-solutions-2/) | Chicago, IL; Illinois Remote Work | $70K - $80K | 2026-11-19 |
 | **Rochester Regional Health** | [Associate Project Manager](https://jobseveryhour.com/job/associate-project-manager-rochester-regional-health/) | ACM - Remote - UK; ACM - York Building 23 | — | 2026-11-19 |
+| **Highmark Health** | [Associate Technical Analyst](https://jobseveryhour.com/job/associate-technical-analyst-highmark-health-2/) | PA, Working at Home - Pennsylvania; MD, Working at Home - Maryland; WA, Working at Home - Washington · Remote | — | 2026-11-19 |
+| **Highmark Health** | [Associate Client Advising Consultant](https://jobseveryhour.com/job/associate-client-advising-consultant-highmark-health/) | PA, Working at Home - Pennsylvania · Remote | — | 2026-11-19 |
 | **Kranz Consulting** | [Junior Accounting Manager](https://jobseveryhour.com/job/junior-accounting-manager-kranz-consulting/) | United States (Remote) | $105K - $130K | 2026-11-18 |
 | **Chazin** | [Associate Manager, Technical Reviews & Training - CPA](https://jobseveryhour.com/job/associate-manager-technical-reviews-training-cpa-chazin/) | Tampa, Florida, United States · Remote | $103K - $110K | 2026-01-08 |
 | **Command Investigations** | [Surveillance Investigator I - Entry Level](https://jobseveryhour.com/job/surveillance-investigator-i-entry-level-command-investigations-3/) | Hartford, CT, USA · Remote | $20 - $25 an hour | 2026-11-18 |
@@ -222,7 +225,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Harris Computer** | [Associate Analyst](https://jobseveryhour.com/job/associate-analyst-harris-computer/) | Arizona, United States; Remote - Michigan; Remote - Alabama | — | 2026-11-16 |
 | **Medtronic** | [Associate Remote Technical Service Specialist (Electrophysiology Technologies)](https://jobseveryhour.com/job/associate-remote-technical-service-specialist-electrophysiol-medtronic/) | State of Minnesota, United States of America · Remote | $54K - $80K | 2026-11-16 |
 | **Republic Services** | [Associate Account Executive (Ohio - Remote)](https://jobseveryhour.com/job/associate-account-executive-ohio-remote-republic-services/) | Remote - USA | — | 2026-11-16 |
-| **Highmark Health** | [Associate Technical Engineer](https://jobseveryhour.com/job/associate-technical-engineer-highmark-health/) | PA, Working at Home - Pennsylvania; MD, Working at Home - Maryland; WA, Working at Home - Washington · Remote | — | 2026-11-16 |
 | **Parsons** | [Junior Civil Engineers/Junior Environmental Engineers](https://jobseveryhour.com/job/junior-civil-engineers-junior-environmental-engineers-parsons/) | CA - NT, Yellowknife; CA - Remote (Any Location) | — | 2026-11-16 |
 | **Medtronic** | [Associate Territory Manager, Neurovascular - San Jose / San Francisco, CA](https://jobseveryhour.com/job/associate-territory-manager-neurovascular-san-jose-san-franc-medtronic/) | San Jose, California, United States of America; San Francisco, California, United States of America · Remote | — | 2026-11-16 |
 | **Medtronic** | [Associate Territory Manager, Neurovascular - Harrisburg, PA](https://jobseveryhour.com/job/associate-territory-manager-neurovascular-harrisburg-pa-medtronic/) | Harrisburg, Pennsylvania, United States of America · Remote | — | 2026-11-16 |
@@ -308,8 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Bask Health** | [Associate Product Manager, New Grad](https://jobseveryhour.com/job/associate-product-manager-new-grad-bask-health/) | United States · Remote | — | 2026-11-11 |
 | **Bask Health** | [Backend Engineer, New Grad](https://jobseveryhour.com/job/backend-engineer-new-grad-bask-health/) | United States · Remote | — | 2026-11-11 |
 | **Bask Health** | [Junior Backend Engineer](https://jobseveryhour.com/job/junior-backend-engineer-bask-health/) | United States · Remote | — | 2026-11-11 |
-| **Bask Health** | [Junior Backend Engineer, Platform](https://jobseveryhour.com/job/junior-backend-engineer-platform-bask-health/) | United States · Remote | — | 2026-11-11 |
-| **Bask Health** | [Junior Full Stack Engineer](https://jobseveryhour.com/job/junior-full-stack-engineer-bask-health/) | United States · Remote | — | 2026-11-11 |
 
 ## More
 
