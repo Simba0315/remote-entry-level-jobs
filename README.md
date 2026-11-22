@@ -2,7 +2,7 @@
 
 Remote jobs for beginners and new grads at companies hiring now, read from employers' own career pages and checked every hour, so every listing is still open.
 
-**973 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
+**985 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/remote/entry-level/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -10,6 +10,13 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-2/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-3/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-4/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-5/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-6/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-7/) | Remote | — |  |
 | **Testbook** | [Associate SME Psychology(UGC NET/SET)](https://jobseveryhour.com/job/associate-sme-psychology-ugc-net-set-testbook/) | Noida, Uttar Pradesh, India · Remote | — |  |
 | **IMI Plc - Legacy Precision** | [IMI Graduate Program - Commercial](https://jobseveryhour.com/job/imi-graduate-program-commercial-imi-plc-legacy-precision/) | Darmstadt, Hessen, Deutschland · Remote | — |  |
 | **The Violand Agency** | [(Katie hiring manager ) Remote Entry Level Sales Manager](https://jobseveryhour.com/job/katie-hiring-manager-remote-entry-level-sales-manager-the-violand-agency/) | Remote | — |  |
@@ -94,6 +101,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **GDIT** | [Junior Scala Back-End Developer](https://jobseveryhour.com/job/junior-scala-back-end-developer-gdit/) | Any Location / Remote | $89K - $121K | 2026-11-20 |
 | **Parsons** | [Associate Software Engineer](https://jobseveryhour.com/job/associate-software-engineer-parsons/) | US - Remote (Any Location) | $64K - $111K | 2026-11-20 |
 | **Command Investigations** | [Surveillance Investigator I - Entry Level](https://jobseveryhour.com/job/surveillance-investigator-i-entry-level-command-investigations/) | Pittsburgh, PA, USA · Remote | $18 - $20 an hour | 2026-11-19 |
+| **Meridian International Center** | [Associate, Center for Culture & Sport Diplomacy](https://jobseveryhour.com/job/associate-center-for-culture-sport-diplomacy-meridian-international-center/) | Washington, DC, USA · Remote | $22 an hour | 2026-11-19 |
 | **Library Systems & Services** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-library-systems-services/) | Aurora, CO, USA · Remote | $70K - $90K | 2026-11-19 |
 | **LAC Federal** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-lac-federal/) | Aurora, CO, USA · Remote | $70K - $90K | 2026-11-19 |
 | **Clover Health** | [Associate Counsel, Vendor and Provider Contracting](https://jobseveryhour.com/job/associate-counsel-vendor-and-provider-contracting-clover-health/) | Remote - USA | $146K - $190K | 2026-11-19 |
@@ -217,6 +225,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Nivoda** | [Junior Fulfilment Executive (Netherlands)](https://jobseveryhour.com/job/junior-fulfilment-executive-netherlands-nivoda/) | Amsterdam · Remote | — | 2026-11-16 |
 | **Jensen Hughes** | [Associate Drafter - Security Technology](https://jobseveryhour.com/job/associate-drafter-security-technology-jensen-hughes/) | Remote - United States | $57K - $70K | 2026-11-16 |
 | **Junipersquare** | [Associate II, Fund Administration (Accounting)](https://jobseveryhour.com/job/associate-ii-fund-administration-accounting-junipersquare/) | Americas (USA or Canada) · Remote | CA$65K - CA$80K | 2026-11-16 |
+| **Meridian International Center** | [Associate, Communications](https://jobseveryhour.com/job/associate-communications-meridian-international-center/) | Washington, DC, USA · Remote | $51K - $59K | 2026-11-16 |
 | **Regional Municipality of Peel** | [Junior Planner](https://jobseveryhour.com/job/junior-planner-regional-municipality-of-peel/) | Brampton, ON, CA · Remote | — | 2026-11-16 |
 | **B2spin** | [Junior IT Helpdesk Specialist](https://jobseveryhour.com/job/junior-it-helpdesk-specialist-b2spin/) | Ukraine · Remote | — | 2026-11-16 |
 | **Atari** | [Associate Producer](https://jobseveryhour.com/job/associate-producer-atari/) | Atari - US (Remote) | $75K - $90K | 2026-11-16 |
@@ -301,15 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Decimal** | [Junior Staff Accountant](https://jobseveryhour.com/job/junior-staff-accountant-decimal/) | Remote | — | 2026-11-11 |
 | **Ruby Labs** | [Junior Motion Designer](https://jobseveryhour.com/job/junior-motion-designer-ruby-labs/) | Ukraine · Remote | — | 2026-11-11 |
 | **From Day One, Inc.** | [Jr. Account Exec. (Toronto-based - Remote)](https://jobseveryhour.com/job/jr-account-exec-toronto-based-remote-from-day-one-inc/) | Toronto, Ontario, Canada · Remote | — | 2026-11-11 |
-| **Gotham Enterprises Ltd** | [Associate Mental Health Counselor](https://jobseveryhour.com/job/associate-mental-health-counselor-gotham-enterprises-ltd-17/) | Las Vegas, Nevada, United States · Remote | $50K - $75K | 2026-11-11 |
-| **Gotham Enterprises Ltd** | [Associate Mental Health Counselor](https://jobseveryhour.com/job/associate-mental-health-counselor-gotham-enterprises-ltd-18/) | Concord, New Hampshire, United States · Remote | $50K - $75K | 2026-11-11 |
-| **Gotham Enterprises Ltd** | [Associate Mental Health Counselor](https://jobseveryhour.com/job/associate-mental-health-counselor-gotham-enterprises-ltd-19/) | Newark, New Jersey, United States · Remote | $65K - $80K | 2026-11-11 |
-| **Gotham Enterprises Ltd** | [Associate Mental Health Counselor](https://jobseveryhour.com/job/associate-mental-health-counselor-gotham-enterprises-ltd-20/) | Albuquerque, New Mexico, United States · Remote | $50K - $75K | 2026-11-11 |
-| **Gotham Enterprises Ltd** | [Associate Mental Health Counselor](https://jobseveryhour.com/job/associate-mental-health-counselor-gotham-enterprises-ltd-21/) | New York, New York, United States · Remote | $65K - $80K | 2026-11-11 |
-| **Bask Health** | [Associate Product Manager](https://jobseveryhour.com/job/associate-product-manager-bask-health/) | United States · Remote | — | 2026-11-11 |
-| **Bask Health** | [Associate Product Manager, New Grad](https://jobseveryhour.com/job/associate-product-manager-new-grad-bask-health/) | United States · Remote | — | 2026-11-11 |
-| **Bask Health** | [Backend Engineer, New Grad](https://jobseveryhour.com/job/backend-engineer-new-grad-bask-health/) | United States · Remote | — | 2026-11-11 |
-| **Bask Health** | [Junior Backend Engineer](https://jobseveryhour.com/job/junior-backend-engineer-bask-health/) | United States · Remote | — | 2026-11-11 |
 
 ## More
 
