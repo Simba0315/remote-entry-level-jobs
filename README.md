@@ -2,7 +2,7 @@
 
 Remote jobs for beginners and new grads at companies hiring now, read from employers' own career pages and checked every hour, so every listing is still open.
 
-**1,027 open right now · updated 2026-11-24.** The list below shows the 300 newest. Jobs come from
+**1,023 open right now · updated 2026-11-24.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/remote/entry-level/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -10,6 +10,10 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| **Shield AI** | [Associate Asset Management Specialist](https://jobseveryhour.com/job/associate-asset-management-specialist-shield-ai/) | Remote | $71K - $107K | 2026-11-23 |
+| **GitLab** | [Junior Talent Operations Specialist](https://jobseveryhour.com/job/junior-talent-operations-specialist-gitlab/) | Remote, United States | $71K - $121K | 2026-11-23 |
+| **Fidelity & Guaranty Life Insurance Company** | [Associate Actuary](https://jobseveryhour.com/job/associate-actuary-fidelity-guaranty-life-insurance-company-2/) | Remote | — | 2026-11-23 |
+| **Oscar Health** | [Associate, Payment Integrity](https://jobseveryhour.com/job/associate-payment-integrity-oscar-health-2/) | Remote | $85K - $112K | 2026-11-23 |
 | **NXTThing RPO** | [Entry Level Talent Solutions Partner - Talent Pool](https://jobseveryhour.com/job/entry-level-talent-solutions-partner-talent-pool-nxtthing-rpo/) | Remote | — |  |
 | **Midea** | [JR Product Manager](https://jobseveryhour.com/job/jr-product-manager-midea/) | Panamá, Provincia de Panamá · Remote | — |  |
 | **Emergn** | [Junior Full Stack Developer (Python & Angular)](https://jobseveryhour.com/job/junior-full-stack-developer-python-angular-emergn/) | Portugal - Nationwide · Remote | — |  |
@@ -17,6 +21,8 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Bamboo Works** | [Junior Logistics Analyst](https://jobseveryhour.com/job/junior-logistics-analyst-bamboo-works-2/) | Remote | $1,200 - $1,600 a month | 2026-11-23 |
 | **Paragone Solutions** | [Jr. Azure Technician](https://jobseveryhour.com/job/jr-azure-technician-paragone-solutions/) | Remote | — |  |
 | **Paragone Solutions** | [Jr. Systems Administrator](https://jobseveryhour.com/job/jr-systems-administrator-paragone-solutions/) | Remote | — |  |
+| **Infosys Consulting - Europe** | [PLM Consultant Role:- Junior level](https://jobseveryhour.com/job/plm-consultant-role-junior-level-infosys-consulting-europe/) | London, England, United Kingdom · Remote | — | 2026-11-23 |
+| **Freelance Latin America** | [Administrative Assistant - Junior](https://jobseveryhour.com/job/administrative-assistant-junior-freelance-latin-america/) | Mexico · Remote | — | 2026-11-23 |
 | **Nivoda** | [Junior Logistics Executive (Netherlands) - Entry Level/No Experience Required](https://jobseveryhour.com/job/junior-logistics-executive-netherlands-nivoda/) | Amsterdam · Remote | — | 2026-11-22 |
 | **Nivoda** | [Junior Fulfilment Executive (Netherlands) - Entry Level/No Experience Required](https://jobseveryhour.com/job/junior-fulfilment-executive-netherlands-nivoda/) | Amsterdam · Remote | — | 2026-11-22 |
 | **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller/) | Remote | — |  |
@@ -106,7 +112,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Sanhua International** | [Junior Account Manager - Residential](https://jobseveryhour.com/job/junior-account-manager-residential-sanhua-international-2/) | Remote | — |  |
 | **Sanhua International** | [Junior Account Manager - Residential](https://jobseveryhour.com/job/junior-account-manager-residential-sanhua-international-3/) | Remote | — |  |
 | **GLORY** | [Entry Level Field Service Engineer – Slough and Surrounding areas](https://jobseveryhour.com/job/entry-level-field-service-engineer-slough-and-surrounding-ar-glory/) | UK/Field based · Remote | — |  |
-| **GLORY** | [Entry-Level Field Service Engineer – South Birmingham and North Worcestershire surrounding areas](https://jobseveryhour.com/job/entry-level-field-service-engineer-south-birmingham-and-nort-glory/) | UK/Field based · Remote | — |  |
 | **GLORY** | [Entry-Level Field Service Engineer – Northwest London](https://jobseveryhour.com/job/entry-level-field-service-engineer-northwest-london-glory/) | UK/Field based · Remote | — |  |
 | **Cmed** | [Associate Legal Counsel](https://jobseveryhour.com/job/associate-legal-counsel-cmed/) | 08873 · Remote | $110K - $130K |  |
 | **Lattice Technologies Pvt** | [Associate - Expert Network](https://jobseveryhour.com/job/associate-expert-network-lattice-technologies-pvt/) | Delhi, India · Remote | — |  |
@@ -121,7 +126,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Library Systems & Services** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-library-systems-services/) | Aurora, CO, USA · Remote | $70K - $90K | 2026-11-19 |
 | **LAC Federal** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-lac-federal/) | Aurora, CO, USA · Remote | $70K - $90K | 2026-11-19 |
 | **Clover Health** | [Associate Counsel, Vendor and Provider Contracting](https://jobseveryhour.com/job/associate-counsel-vendor-and-provider-contracting-clover-health/) | Remote - USA | $146K - $190K | 2026-11-19 |
-| **SixGen, Inc.** | [Jr. Threat Hunter/Purple Team Operator-S clearance](https://jobseveryhour.com/job/jr-threat-hunter-purple-team-operator-sixgen-inc/) | Remote | — | 2026-11-19 |
+| **SixGen, Inc.** | [Jr. Threat Hunter/Purple Team Operator-S clearance](https://jobseveryhour.com/job/jr-threat-hunter-purple-team-operator-sixgen-inc/) | Remote | $90K - $100K | 2026-11-19 |
 | **LINGUALINX** | [Junior Government Account Executive](https://jobseveryhour.com/job/junior-government-account-executive-lingualinx/) | Albany, NY, USA · Remote | — | 2026-10-23 |
 | **C.A. Fortune** | [Associate E-Commerce Partnership Manager](https://jobseveryhour.com/job/associate-e-commerce-partnership-manager-c-a-fortune/) | Remote | $60K - $65K | 2026-11-19 |
 | **Zantech** | [Jr Web Applications Developer - Agile, ASP.Net, OOP](https://jobseveryhour.com/job/jr-web-applications-developer-agile-asp-net-oop-zantech/) | Andrews Air Force Base AFB, Maryland, United States · Remote | — | 2022-09-19 |
@@ -212,7 +217,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Bitdeer Technologies** | [2027 US AI Engineering – New College Graduate](https://jobseveryhour.com/job/2027-us-ai-engineering-new-college-graduate-bitdeer-technologies/) | San Jose, California, United States; Austin, Texas, United States · Remote | $70K - $150K | 2026-10-10 |
 | **JLL** | [Junior Analytics Specialist, Sustainability](https://jobseveryhour.com/job/junior-analytics-specialist-sustainability-jll/) | Warsaw, POL · Remote | — | 2026-11-18 |
 | **WVU Medicine** | [Associate Technical Support Analyst](https://jobseveryhour.com/job/associate-technical-support-analyst-wvu-medicine/) | Remote | — | 2026-11-18 |
-| **Cigna** | [Entry-Level Product Management Analyst - EviCore - Remote](https://jobseveryhour.com/job/entry-level-product-management-analyst-evicore-remote-cigna/) | United States Work at Home · Remote | — | 2026-11-18 |
 | **Unisys** | [Associate Systems Admin](https://jobseveryhour.com/job/associate-systems-admin-unisys/) | Remote, PA, United States of America | — | 2026-11-18 |
 | **GEICO** | [Associate Counsel - Queens, NY (Remote)](https://jobseveryhour.com/job/associate-counsel-queens-ny-remote-geico/) | Westbury, NY · Remote | $119K - $187K | 2026-11-18 |
 | **American Income Life** | [Entry Level Management](https://jobseveryhour.com/job/entry-level-management-american-income-life/) | Denver, Colorado, United States · Remote | — | 2026-11-18 |
@@ -251,7 +255,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Medtronic** | [Associate Remote Technical Service Specialist (Electrophysiology Technologies)](https://jobseveryhour.com/job/associate-remote-technical-service-specialist-electrophysiol-medtronic/) | State of Minnesota, United States of America · Remote | $54K - $80K | 2026-11-16 |
 | **Republic Services** | [Associate Account Executive (Ohio - Remote)](https://jobseveryhour.com/job/associate-account-executive-ohio-remote-republic-services/) | Remote - USA | — | 2026-11-16 |
 | **Parsons** | [Junior Civil Engineers/Junior Environmental Engineers](https://jobseveryhour.com/job/junior-civil-engineers-junior-environmental-engineers-parsons/) | CA - NT, Yellowknife; CA - Remote (Any Location) | — | 2026-11-16 |
-| **Medtronic** | [Associate Territory Manager, Neurovascular - San Jose / San Francisco, CA](https://jobseveryhour.com/job/associate-territory-manager-neurovascular-san-jose-san-franc-medtronic/) | San Jose, California, United States of America; San Francisco, California, United States of America · Remote | — | 2026-11-16 |
 | **Medtronic** | [Associate Territory Manager, Neurovascular - Harrisburg, PA](https://jobseveryhour.com/job/associate-territory-manager-neurovascular-harrisburg-pa-medtronic/) | Harrisburg, Pennsylvania, United States of America · Remote | — | 2026-11-16 |
 | **Viatris** | [Associate Manager, Regulatory Affairs](https://jobseveryhour.com/job/associate-manager-regulatory-affairs-viatris/) | Washington, District of Columbia, USA; United States Remote Office | — | 2026-11-16 |
 | **The Hartford** | [Associate Attorney - Complex Litigation](https://jobseveryhour.com/job/associate-attorney-complex-litigation-the-hartford/) | Los Angeles, CA; California-Remote | $119K - $178K | 2026-11-16 |
@@ -307,9 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Gotham Enterprises Ltd** | [Associate Mental Health Counselor](https://jobseveryhour.com/job/associate-mental-health-counselor-gotham-enterprises-ltd-25/) | Portland, Oregon, United States · Remote | $50K - $75K | 2026-11-12 |
 | **Gotham Enterprises Ltd** | [Associate Mental Health Counselor](https://jobseveryhour.com/job/associate-mental-health-counselor-gotham-enterprises-ltd-26/) | Philadelphia, Pennsylvania, United States · Remote | $50K - $75K | 2026-11-12 |
 | **Bask Health** | [Associate Product Designer, New Grad](https://jobseveryhour.com/job/associate-product-designer-new-grad-bask-health/) | United States · Remote | — | 2026-11-12 |
-| **Bask Health** | [Frontend Engineer, New Grad](https://jobseveryhour.com/job/frontend-engineer-new-grad-bask-health/) | United States · Remote | — | 2026-11-12 |
-| **Bask Health** | [Junior Applied AI Engineer](https://jobseveryhour.com/job/junior-applied-ai-engineer-bask-health/) | United States · Remote | — | 2026-11-12 |
-| **Bask Health** | [Junior Content Designer](https://jobseveryhour.com/job/junior-content-designer-bask-health/) | United States · Remote | — | 2026-11-12 |
 
 ## More
 
